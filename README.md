@@ -1,4 +1,4 @@
-OBQA-OOCEP-LUBM
-===============
+OBQA-OOCEP
+==========
 
-OBQA-OOCEP Implementation over LUBM Ontology
+Ontology Based Query Answering @ Object Oriented Complex Event Processing
